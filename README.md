@@ -1,3 +1,4 @@
 # uhe_demo
-This is my first git repositary
-Autrhor - Manahil Asif
+This is my first git repositary.
+<br>
+Author - Manahil Asif
